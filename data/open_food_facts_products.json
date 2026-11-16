@@ -1,0 +1,43 @@
+{
+  "products": [
+    {
+      "product_id": "P005",
+      "name": "Coca-Cola Original",
+      "display_name_zh": "可口可樂原味",
+      "barcode": "5449000000996",
+      "nutrition_grade": "e",
+      "data_source": "Open Food Facts",
+      "source_url": "https://world.openfoodfacts.org/api/v2/product/5449000000996?fields=code,product_name,nutrition_grades,brands",
+      "source_method": "官方產品 API 查詢（2026-11-15）",
+      "price": "35",
+      "stock": "12",
+      "limit_per_user": "2"
+    },
+    {
+      "product_id": "P006",
+      "name": "Prince",
+      "display_name_zh": "LU Prince 巧克力餅乾",
+      "barcode": "7622210449283",
+      "nutrition_grade": "e",
+      "data_source": "Open Food Facts",
+      "source_url": "https://world.openfoodfacts.org/api/v2/product/7622210449283?fields=code,product_name,nutrition_grades,brands",
+      "source_method": "官方產品 API 查詢（2026-11-15）；商品名稱與品牌欄位依 API 回應整理",
+      "price": "59",
+      "stock": "10",
+      "limit_per_user": "2"
+    },
+    {
+      "product_id": "P007",
+      "name": "100% Real Orange Juice",
+      "display_name_zh": "100% 柳橙汁",
+      "barcode": "0180411000803",
+      "nutrition_grade": "c",
+      "data_source": "Open Food Facts",
+      "source_url": "https://openfoodfacts.github.io/documentation/docs/Product-Opener/api/tutorial-off-api/",
+      "source_method": "官方 API 教學頁靜態範例，非本程式即時查詢",
+      "price": "99",
+      "stock": "8",
+      "limit_per_user": "2"
+    }
+  ]
+}

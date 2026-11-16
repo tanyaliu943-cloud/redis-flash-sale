@@ -1,0 +1,58 @@
+{
+  "products": [
+    {
+      "product_id": "P001",
+      "name": "鮮奶",
+      "display_name_zh": "鮮奶",
+      "data_source": "專題模擬資料",
+      "price": "89",
+      "stock": "5",
+      "limit_per_user": "2"
+    },
+    {
+      "product_id": "P002",
+      "name": "豆漿",
+      "display_name_zh": "無糖豆漿",
+      "data_source": "專題模擬資料",
+      "price": "35",
+      "stock": "10",
+      "limit_per_user": "2"
+    },
+    {
+      "product_id": "P008",
+      "name": "優格",
+      "display_name_zh": "優格",
+      "data_source": "專題模擬資料",
+      "price": "69",
+      "stock": "8",
+      "limit_per_user": "2"
+    },
+    {
+      "product_id": "P009",
+      "name": "吐司",
+      "display_name_zh": "吐司",
+      "data_source": "專題模擬資料",
+      "price": "45",
+      "stock": "12",
+      "limit_per_user": "2"
+    },
+    {
+      "product_id": "P010",
+      "name": "早餐麥片",
+      "display_name_zh": "早餐麥片",
+      "data_source": "專題模擬資料",
+      "price": "129",
+      "stock": "7",
+      "limit_per_user": "2"
+    },
+    {
+      "product_id": "P011",
+      "name": "洋芋片",
+      "display_name_zh": "洋芋片",
+      "data_source": "專題模擬資料",
+      "price": "59",
+      "stock": "10",
+      "limit_per_user": "2"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "source": "Open Food Facts official API tutorial sample response",
+  "source_url": "https://openfoodfacts.github.io/documentation/docs/Product-Opener/api/tutorial-off-api/",
+  "retrieved_at": "2026-11-15",
+  "barcode": "3017624010701",
+  "product": {
+    "product_name": "Nutella",
+    "nutrition_grades": "e"
+  },
+  "note": "This is the sample response shown in the official tutorial, not a live API fetch. Open Food Facts product records can be incomplete or change over time."
+}
