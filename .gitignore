@@ -1,0 +1,18 @@
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local credentials and deployment secrets
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Local editor / operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
